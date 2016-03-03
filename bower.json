@@ -1,0 +1,23 @@
+{
+  "name": "flapper",
+  "homepage": "https://github.com/slomkay/FlapperNews",
+  "authors": [
+    "slomkay"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.0",
+    "bootstrap": "^3.3.6",
+    "animate.css": "animate-css#^3.5.1"
+  }
+}
